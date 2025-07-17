@@ -1,1 +1,3 @@
 https://docs.expo.dev/tutorial/create-your-first-app/
+
+https://reactnative.dev/docs/environment-setup
